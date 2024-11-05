@@ -45,3 +45,10 @@
 {"level":"info","message":"Processing image: image-1730828597518-201008087.jpg","timestamp":"2024-11-05 23:13:17"}
 {"level":"info","message":"OCR Processing completed. Text length: 52, Average confidence: 0","timestamp":"2024-11-05 23:13:18"}
 {"level":"info","message":"::1 - - [05/Nov/2024:17:43:18 +0000] \"POST /api/process-image HTTP/1.1\" 200 173 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"","timestamp":"2024-11-05 23:13:18"}
+{"level":"info","message":"Server running on port 3001 in development mode","timestamp":"2024-11-06 00:37:00"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-06 00:37:00"}
+{"level":"info","message":"Server running on port 3001 in development mode","timestamp":"2024-11-06 01:18:20"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-06 01:18:21"}
+{"level":"info","message":"Processing image: image-1730836116741-818983867.jpg","timestamp":"2024-11-06 01:18:36"}
+{"level":"info","message":"OCR Processing completed. Text length: 52, Average confidence: 0","timestamp":"2024-11-06 01:18:37"}
+{"level":"info","message":"::1 - - [05/Nov/2024:19:48:38 +0000] \"POST /api/process-image HTTP/1.1\" 200 173 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"","timestamp":"2024-11-06 01:18:38"}
