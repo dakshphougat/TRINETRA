@@ -51,7 +51,6 @@ app.post(
   upload.single("image"), // Handle single file upload
   handleMulterError, // Handle multer errors
   async (req, res) => {
-    console.log('processImage route hit');
     try {
       await imageController.processImage(req, res);
     } catch (error) {
