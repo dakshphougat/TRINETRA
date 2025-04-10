@@ -10,7 +10,7 @@ const About = () => {
             Making Print Media Accessible to All
           </p>
           <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-            TriNetra aims to bridge the gap between print and digital
+            Text to speech aims to bridge the gap between print and digital
             accessibility, empowering visually impaired individuals with modern
             technology.
           </p>
